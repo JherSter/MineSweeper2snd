@@ -1,0 +1,7 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="FloodFill" preserve="all"/>
+<type fullname="Grid" preserve="all"/>
+<type fullname="Player" preserve="all"/>
+</assembly>
+</linker>
